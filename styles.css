@@ -1,0 +1,52 @@
+p:hover {
+    background-color: #6bffe9;
+}
+
+h2:hover {
+    background-color: #fffa6b;
+}
+
+li:hover {
+    background-color: #6eff69;
+}
+
+h1:hover {
+    background-color: #ff6b6b;
+}
+
+body {
+    background: linear-gradient(600deg, rgba(255, 220, 0, 1) 0%, rgba(255, 0, 0, 1) 52%, rgba(241, 233, 15, 1) 100%);
+    color: #f71b1b;
+    font-family: 'Comforter', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif KR', serif;
+    text-shadow: 6px 4px 4px #00c9c6;
+}
+
+.college {
+    margin: 10px;
+    padding: 5px;
+    border: white solid 2px;
+}
+
+div {
+    border: 1px solid black;
+    background: linear-gradient(90deg, rgba(112, 180, 48, 1) 0%, rgba(161, 173, 42, 1) 52%, rgba(51, 185, 153, 1) 100%);
+    margin: 10px;
+    padding: 5px;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Image {
+    display: flex;
+    justify-content: space-around;
+}
